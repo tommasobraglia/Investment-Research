@@ -1,6 +1,6 @@
 # Investment-Research
 
-How does this work?
+How does this work? <b>
 I'll make an update on my personal portfolio exposure everytime i begin/increase/decrease a position.
 
 How often?
