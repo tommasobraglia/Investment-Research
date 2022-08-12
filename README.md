@@ -1,4 +1,4 @@
-#Investment-Research
+# Investment-Research
 
 How does this work? I'll make an update on my personal portfolio exposure everytime i begin/increase/decrease a position.
 
